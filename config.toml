@@ -53,9 +53,10 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 
 [Twitch]
-enabled = false
-build-mode = "apk"
+enabled = true
+build-mode = "module"
 version = "auto"
+excluded-patches = "debug-mode"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [TikTok]
