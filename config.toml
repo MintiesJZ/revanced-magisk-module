@@ -13,3 +13,9 @@ version = "auto"                                                      # 'auto', 
 exclusive-patches = false                                             # excludes all patches by default and only applies included-patches
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "ytrv-magisk"
+
+[Twitch]
+build-mode = "module"                                                 # 'both', 'apk' or 'module'
+excluded-patches = "debug-mode"                                       # space-seperated patches to exclude (multiline strings are not supported)
+version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
+apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
