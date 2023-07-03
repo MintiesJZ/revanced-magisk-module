@@ -6,16 +6,18 @@ build-mindetach-module = false
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 [YouTube]
-build-mode = "module"                                                 # 'both', 'apk' or 'module'
-excluded-patches = "enable-debugging theme custom-branding premium-heading" # space-seperated patches to exclude (multiline strings are not supported)
-included-patches = ""                                                 # space-seperated patches to include (non-excluded patches are included by default)
-version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
-exclusive-patches = false                                             # excludes all patches by default and only applies included-patches
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-module-prop-name = "ytrv-magisk"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "module"
+version = "auto"
+included-patches = "custom-video-buffer remove-player-controls-background"
+excluded-patches = "custom-branding enable-debugging premium-heading swipe-controls theme"
 
 [Twitch]
-build-mode = "module"                                                 # 'both', 'apk' or 'module'
-excluded-patches = "debug-mode"                                       # space-seperated patches to exclude (multiline strings are not supported)
-version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
-apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+build-mode = "module"
+version = "auto"
+
+[Sync]
+apkmirror-dlurl = "https://apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
+build-mode = "module"
+version = "auto"
