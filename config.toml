@@ -20,4 +20,4 @@ version = "auto"
 [Sync]
 apkmirror-dlurl = "https://apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
 build-mode = "module"
-version = "auto"
+version = "v23.05.03-17:18"
