@@ -9,7 +9,7 @@ build-mindetach-module = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
 version = "auto"
-included-patches = "custom-video-buffer remove-player-controls-background"
+included-patches = "remove-player-controls-background"
 excluded-patches = "custom-branding enable-debugging premium-heading swipe-controls theme"
 
 [Twitch]
