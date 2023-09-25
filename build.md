@@ -1,6 +1,6 @@
-Twitch: 15.4.1  
 YouTube: 18.32.39  
-com.strava: 320.12  
+Twitch: 15.4.1  
+Strava: 320.12  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
