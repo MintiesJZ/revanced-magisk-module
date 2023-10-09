@@ -1,8 +1,9 @@
-YouTube: 18.39.40  
-Twitch: 16.5.1  
-Strava: 327.7  
+YouTube: 18.38.44  
+Twitch: 16.1.0  
+Strava: 320.12  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
+Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
