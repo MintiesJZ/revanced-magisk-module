@@ -1,5 +1,6 @@
 YouTube: 18.38.44  
 Twitch: 16.1.0  
+SolidExplorer: 2.8.36  
 Strava: 320.12  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
