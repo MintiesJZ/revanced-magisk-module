@@ -18,3 +18,7 @@ build-mode = "module"
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 build-mode = "module"
+
+[Sync]
+apkmirror-dlurl = "https://apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
+build-mode = "module"
