@@ -1,6 +1,6 @@
 Sync: v23.06.30-13:39  
-Twitch: 16.9.1  
 YouTube: 18.45.43  
+Twitch: 16.9.1  
 Strava: 320.12  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
