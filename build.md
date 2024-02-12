@@ -1,3 +1,4 @@
+Sync: v23.06.30-13:39  
 YouTube: 19.04.37  
 Twitch: 16.9.1  
 Strava: 320.12  
