@@ -15,6 +15,7 @@ build-mode = "module"
 
 [Solid Explorer]
 apkmirror-dlurl = "https://apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+version = "latest"
 build-mode = "module"
 
 [Strava]
