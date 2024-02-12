@@ -20,3 +20,4 @@ build-mode = "module"
 [Strava]
 apkmirror-dlurl = "https://apkmirror.com/apk/strava-inc/strava-running-and-cycling-gps/"
 build-mode = "module"
+
