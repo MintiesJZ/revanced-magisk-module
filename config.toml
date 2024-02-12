@@ -9,10 +9,14 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
 excluded-patches = "'Theme'"
 
-[Strava]
-apkmirror-dlurl = "https://apkmirror.com/apk/strava-inc/strava-running-and-cycling-gps/"
+[Sync]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
 build-mode = "module"
 
 [Solid Explorer]
 apkmirror-dlurl = "https://apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+build-mode = "module"
+
+[Strava]
+apkmirror-dlurl = "https://apkmirror.com/apk/strava-inc/strava-running-and-cycling-gps/"
 build-mode = "module"
