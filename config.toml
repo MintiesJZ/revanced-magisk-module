@@ -2,6 +2,7 @@ enable-magisk-update = true
 
 [Solid Explorer]
 apkmirror-dlurl = "https://www.apkmonk.com/app/pl.solidexplorer2/"
+arch = "arm64-v8a"
 version = "latest"
 build-mode = "module"
 
