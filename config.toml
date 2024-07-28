@@ -18,5 +18,6 @@ build-mode = "apk"
 
 [Solid Explorer]
 apkmirror-dlurl = "https://apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+version = "2.8.45"
 arch = "arm64-v8a"
 build-mode = "apk"
