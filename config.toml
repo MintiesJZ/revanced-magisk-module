@@ -2,21 +2,21 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [Sync]
 apkmirror-dlurl = "https://apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
-build-mode = "module"
+build-mode = "apk"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-build-mode = "module"
+build-mode = "apk"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "module"
+build-mode = "apk"
 
 [Strava]
 apkmirror-dlurl = "https://apkmirror.com/apk/strava-inc/strava-running-and-cycling-gps/"
-build-mode = "module"
+build-mode = "apk"
 
 [Solid Explorer]
 apkmirror-dlurl = "https://apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 arch = "arm64-v8a"
-build-mode = "module"
+build-mode = "apk"
