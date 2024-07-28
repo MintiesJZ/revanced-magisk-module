@@ -1,7 +1,8 @@
-Strava: 320.12  
 Sync: v23.06.30-13:39  
-YouTube: 19.16.39  
+Strava: 320.12  
 Twitch: 16.9.1  
+YouTube: 19.16.39  
+SolidExplorer: 2.8.45  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
